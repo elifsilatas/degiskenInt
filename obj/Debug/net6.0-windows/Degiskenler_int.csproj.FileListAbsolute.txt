@@ -1,0 +1,17 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.deps.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.runtimeconfig.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\bin\Debug\net6.0-windows\Degiskenler_int.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.AssemblyInfoInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.AssemblyInfo.cs
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\refint\Degiskenler_int.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\Degiskenler_int.genruntimeconfig.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Degiskenler_int\obj\Debug\net6.0-windows\ref\Degiskenler_int.dll
